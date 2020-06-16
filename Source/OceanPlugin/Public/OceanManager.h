@@ -455,6 +455,17 @@ public:
 	UFUNCTION(BlueprintCallable, Category = "Ocean Manager")
 		FLinearColor GetHeightmapPixel(float U, float V) const;
 
+	/*----------------BlueEagle Edits------------------------
+	*Haven't converted BP Functions yet
+	UFUNCTION(BlueprintCallable, Category = "Ocean Manager")
+		void CreateWaveSet();
+
+	UFUNCTION(BlueprintCallable, Category = "Ocean Manager")
+		void SetDisplayParameters();
+
+	UFUNCTION(BlueprintCallable, Category = "Ocean Manager")
+		void SetGlobalParameters(); */
+
 
 
 	//CUBEMAP MATERIALS ONLY - Controls the strength of the cubemap reflection

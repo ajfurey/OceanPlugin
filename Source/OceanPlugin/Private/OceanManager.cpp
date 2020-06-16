@@ -337,3 +337,16 @@ void FWaveCache::SetDir(float rotation, const FVector2D& inDirection, const FVec
 	MemorizedDir = inDir;
 }
 
+/* ------------BlueEagle Edits--------
+*Haven't converted BP Functions yet
+void AOceanManager::CreateWaveSet()
+{
+}
+
+void AOceanManager::SetDisplayParameters()
+{
+}
+
+void AOceanManager::SetGlobalParameters()
+{
+}*/
